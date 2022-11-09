@@ -18,7 +18,7 @@ If one have already installed R with xcms and PreteoWizard, [stand-alone](https:
 
 - To use [All in one](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI-standalone.zip) software, one can just run the xcmsGUI.exe after unzip `xcmsGUI-Zhulab-all.zip`
 - To use [Stand-alone](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI-standalone.zip) software, one should have
-	- R and ProeoWizard installed on Windows OS
+	- [`R`](https://cran.r-project.org/) and [`ProeoWizard`](https://proteowizard.sourceforge.io/) installed on Windows OS
 	- `xcms` package installed in R
 	- [`xcmsTools`](packages/xcmsTools_1.0.0.tar.gz) package installed in R
 	-  config their own R/MSConvert envirenment with 'Options' -> 'Config' in xcmsGUI
