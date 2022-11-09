@@ -5,7 +5,7 @@ For users' convenience, we developed an all-in-one GUI tool, namely, `xcmsGUI-Zh
 ![Main window](figs/main.png)
 # Download
 
-- [All in one](./xcmsGUI.zip) contains
+- [All in one](releases/download/v1.0.0/xcmsGUI-standalone.zip) contains
 	- `xcmsGUI-Zhulab`
 	- `R-portable`
 	- `PreteoWizard`
@@ -16,7 +16,7 @@ If one have already installed R with xcms and PreteoWizard, [stand-alone](./xcms
 
 # Config
 
-- To use [All in one](./xcmsGUI.zip) software, one can just run the xcmsGUI.exe after unzip `xcmsGUI-Zhulab-all.zip`
+- To use [All in one](releases/download/v1.0.0/xcmsGUI-standalone.zip) software, one can just run the xcmsGUI.exe after unzip `xcmsGUI-Zhulab-all.zip`
 - To use [Stand-alone](./xcmsGUI-standalone.zip) software, one should have
 	- R and ProeoWizard installed on Windows OS
 	- `xcms` package installed in R
