@@ -1,6 +1,6 @@
 # Introduction
 
-For users' convenience, we developed an all-in-one GUI tool, namely, `xcmsGUI-Zhulab`, to integrate data conversion (using `MSConvert` in `ProteoWizard`) and data pre-processing (using `XCMS`) in one analysis. Users only need input raw MS data files (`.d`, `.raw`, or `.wiff`) from vendor instruments to `xcmsGUI`. Then, `xcmsGUI` enables to perform data conversion and peak detection altogether in one step. Finally, a peak table and MS/MS spectra files (`MGF` format) are generated as the input files for `MetDNA`. Sample information file is generated automatically for `MetDNA`.
+For users' convenience, we developed an all-in-one GUI tool, namely, `xcmsGUI-Zhulab`, to integrate data conversion (using `MSConvert` in `ProteoWizard`) and data pre-processing (using `XCMS`) in one analysis. Users only need input raw MS data files (`.d`, `.raw`, or `.wiff`) from vendor instruments to `xcmsGUI`. Then, `xcmsGUI` enables to perform data conversion and peak detection altogether in one step. Finally, a peak table and MS/MS spectra files (`MGF` format) are generated as the input files for [`MetDNA`](http://metdna.zhulab.cn). Sample information file is generated automatically for [`MetDNA`](http://metdna.zhulab.cn).
 
 ![Main window](figs/main.png)
 # Download
