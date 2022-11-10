@@ -34,10 +34,6 @@ If one have already installed R with xcms and PreteoWizard, [stand-alone](https:
 3. If only MSMS spectra needed, users should just select `-` in `Analysis` and `Run` the program.
 ![MGF only](figs/mgfonly.png)
 
-# Export MSMS spectra to MGF
-
-![Export MSMS](figs/export.png)
-
 # Saving peak detection parameters for next time
 
 ![Save param](figs/saveparam.png)
