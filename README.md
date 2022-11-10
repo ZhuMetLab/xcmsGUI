@@ -29,7 +29,7 @@ If one have already installed R with xcms and PreteoWizard, [stand-alone](https:
 ![Data processing](figs/process.png)
 
 ***Note***
-1. We support polarity switch mode of ThermoFisher Obitrap instruments (e.g., Exploris 480). Users should just check `Ploarity swith (For Obitrap)` ![Ploarity swith](figs/switch.png)
+1. We support polarity switch mode of ThermoFisher Obitrap instruments (e.g., Exploris 480). Users should just check `Ploarity swith (For Obitrap)` ![Ploarity swith](figs/switch.png) and set data format to `.raw`![raw format](figs/foramt_raw.png)
 2. For MS1 only data, users should uncheck `Export MSMS in MGF Format`![Export MSMS](figs/export_check.png)
 3. If only MSMS spectra needed, users should just select `-` in `Analysis` and `Run` the program.
 ![MGF only](figs/mgfonly.png)
