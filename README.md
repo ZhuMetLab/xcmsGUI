@@ -5,6 +5,7 @@ For users' convenience, we developed an all-in-one GUI tool, namely, `xcmsGUI-Zh
 ![Main window](figs/main.png)
 # Download
 
+Please download the software from release (or just click the following link from GitHub)
 - [All in one](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI.zip) contains
 	- `xcmsGUI-Zhulab`
 	- `R-portable`
