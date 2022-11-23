@@ -5,23 +5,15 @@ For users' convenience, we developed an all-in-one GUI tool, namely, `xcmsGUI-Zh
 ![Main window](figs/main.png)
 # Download
 
-- [All in one](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI-standalone.zip) contains
+- [All in one](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI.zip) contains
 	- `xcmsGUI-Zhulab`
 	- `R-portable`
 	- `PreteoWizard`
-- [Stand-alone](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI-standalone.zip) contains
-	- `xcmsGUI-Zhulab` only 
-
-If one have already installed R with xcms and PreteoWizard, [stand-alone](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI-standalone.zip) version is recommanded.
 
 # Config
 
-- To use [All in one](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI-standalone.zip) software, one can just run the xcmsGUI.exe after unzip `xcmsGUI-Zhulab-all.zip`
-- To use [Stand-alone](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI-standalone.zip) software, one should have
-	- [`R`](https://cran.r-project.org/) and [`ProeoWizard`](https://proteowizard.sourceforge.io/) installed on Windows OS
-	- [`xcms`](https://bioconductor.org/packages/release/bioc/html/xcms.html) package installed in R
-	- [`xcmsTools`](packages/xcmsTools_1.0.0.tar.gz) package installed in R
-	-  config their own R/MSConvert envirenment with 'Options' -> 'Config' in xcmsGUI
+- To use [All in one](https://github.com/ZhuMetLab/xcmsGUI/releases/download/v1.0.0/xcmsGUI.zip) software, one can just run the xcmsGUI.exe after unzip `xcmsGUI-Zhulab-all.zip`
+
 ![Env config](figs/config.png)
 
 # Peak detection
